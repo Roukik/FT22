@@ -11,7 +11,7 @@ function App() {
         <div className="conteneur">
 
           <div className="partie-blanche">
-            <img scr="FT22/"
+            <img scr="FT22/FT22/Images/logo_sncfblleu.png" alt="logo"></img>
 
           </div>
 
