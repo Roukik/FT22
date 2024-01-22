@@ -1,3 +1,7 @@
+html{
+  font-size: 62.5%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -8,20 +12,23 @@ body {
   display: flex;
 }
 
+
+
 .partie-blanche {
+  width: 175px;
   height: 300vh;
   background-color: #fff;
 }
 
 .partie-grise {
-  width: 1200px;
+  width: 1500px;
   height: auto;
   background-color: #ccc;
 }
 
 .partie-bleue {
-  width: 100%;
+  width: 1500px;
   height: 300vh;
-  background-color: #3498db;
+  background-color: #004b72;
 }
 
