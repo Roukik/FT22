@@ -7,9 +7,14 @@ function App() {
  
 
   return (
-      'bonjour les gens.'
+
+        <div className="conteneur">
+          <div className="partie-blanche"></div>
+          <div className="partie-grise"></div>
+          <div className="partie-bleue"></div>
+        </div>
+      );
       
-  )
 }
 
 export default App
