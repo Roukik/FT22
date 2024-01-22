@@ -32,3 +32,42 @@ body {
   background-color: #004b72;
 }
 
+#export {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 10px; 
+}
+
+.export-button {
+  display: inline-flex;
+  padding: 6px 23px;
+  justify-content: center;
+  align-items: center;
+  gap: 8.272px;
+  background-color: #004B72;
+  color: #FFF; 
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#export1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 10px; 
+}
+
+.export1-button {
+  display: inline-flex;
+  padding: 6px 23px;
+  justify-content: center;
+  align-items: center;
+  gap: 8.272px;
+  background-color: white;
+  color: #004B72; 
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
