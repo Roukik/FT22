@@ -7,7 +7,7 @@ function App() {
  
 
   return (
-      'bonjour les genssss.'
+      'bonjour les gens.'
       
   )
 }
