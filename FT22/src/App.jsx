@@ -11,13 +11,13 @@ function App() {
         <div className="conteneur">
 
           <div className="partie-blanche">
-            <img scr="FT22/FT22/Images/logo_sncfblleu.png" alt="logo"></img>
-
+            <img scr="FT22/FT22/Images/logo_sncfblleu.png" alt="logo"/>
           </div>
 
           <div className="partie-grise">
             <div id="export">
             <button class="export-button">Export</button>
+            
             </div>
           </div>
 
@@ -28,7 +28,9 @@ function App() {
 
           </div>
         </div>
+
       );
+      
       
 }
 
