@@ -4,14 +4,13 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
- 
-
+  const [count, setCount] = useState(0)
   return (
 
         <div className="conteneur">
 
           <div className="partie-blanche">
-            <img scr="FT22/FT22/Images/logo_sncfblleu.png" alt="logo"/>
+            <img src="FT22/FT22/Images/logo_sncfbleu.png" alt="" className="logo" />
           </div>
 
           <div className="partie-grise">
