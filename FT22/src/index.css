@@ -77,3 +77,37 @@ body {
   height: 40px;
   
 }
+
+*{ 
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.card {
+  padding: 1%;
+  flex: 1 0 50%;
+  height: 50vh;
+}
+ 
+
+
+.mois {
+  font-size: medium;
+  color: #000000;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.annuel{
+  font-size: medium;
+  color: #FFF;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
